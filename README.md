@@ -1,7 +1,8 @@
 # AJAX-Multiple-File-Uploader
 Simple pure AJAX file uploader with progress bar, capable of uploading multiple files.
 
-# How to use
+
+# How to use this code?
 1. Simply add 'AjaxUpload.js' to your page:
 ```html
 <script src=AjaxUpload.js></script>
@@ -15,3 +16,5 @@ Simple pure AJAX file uploader with progress bar, capable of uploading multiple 
 </form>
 <div id=uploadProgress></div>
 ```
+
+3. At the back-end, 
