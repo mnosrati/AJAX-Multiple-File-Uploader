@@ -92,7 +92,7 @@ async function uploadData(dataForm, index, formId, uploadProgress)
   request.addEventListener('load', function(e) {
     console.log(request.status);
     console.log(request.response);
-    if (request.response ==='ok')
+    if (request.response.trim() ==='ok')
     {
       fileStatus[index]='<font style=color:green>&#10004; </font>';
     }
