@@ -37,3 +37,4 @@ Simple pure AJAX file uploader with progress bar, capable of uploading multiple 
 ## Demo
 http://readass.com/AjaxUpload/
 
+
