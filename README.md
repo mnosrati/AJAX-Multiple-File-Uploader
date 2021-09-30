@@ -8,7 +8,6 @@ Simple pure AJAX file uploader with progress bar, capable of uploading multiple 
 <script src=AjaxUpload.js></script>
 ```
 
-
 2. Create a form containing at least a file input and a button and pass the IDs to the **AjaxUpload()** functions, along with the ID of a DIV to show the results:
 ```html
 <form id="FormId" action="upload.php" method="post" enctype="multipart/form-data">
